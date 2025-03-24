@@ -1,6 +1,4 @@
 
-![Logo](.img/dev.png)
-
 
 ## 🚀 I'm Thauan Barbosa
 
