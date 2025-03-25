@@ -1,8 +1,5 @@
 
-## 🚀 I'm Thauan Barbosa
-
-Beginning in Programming, aiming to become a Full-Stack Developer.
-<br><br>
+<img src="img/banner.png" alt="Banner" width="50%" style="display: block; margin: auto;">
 
 .💻 I'm currently studying Java and JavaScript for Back-End development.
 
@@ -14,7 +11,7 @@ Beginning in Programming, aiming to become a Full-Stack Developer.
 
 
 
-## Language and Tools
+## <img align="left" alt="Notion" width="26px" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" style="padding-right:10px; " /> Language and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; " />
 <img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px; " />
@@ -38,7 +35,7 @@ Beginning in Programming, aiming to become a Full-Stack Developer.
 <br>
 <br>
 
-## Stats
+## <img align="left" alt="Notion" width="26px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="padding-right:10px; " /> Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thauanbo?theme=dark&font=Moulpali)
 
