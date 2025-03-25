@@ -1,5 +1,5 @@
 
-<img src="img/banner.png" alt="Banner" width="50%" style="display: block; margin: auto;">
+<img src="img/banner.png" alt="Banner" width="100%">
 
 .💻 I'm currently studying Java and JavaScript for Back-End development.
 
