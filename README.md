@@ -31,7 +31,7 @@
 <img align="left" alt="PfSense" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" style="padding-right:10px; " />
 <img align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="padding-right:10px; " />
 <img align="left" alt="StackoverFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" style="padding-right:10px; " />
-<img align="left" alt="Notion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="padding-right:10px; " />
+<br>
 <br>
 <br>
 
